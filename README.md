@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**EmalYaditha/EmalYaditha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 I'm Emal Yaditha
 
 - 🔭 I’m currently working on my degree.
 - 🌱 I’m currently learning Advanced Programming.
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: emalyaditha@gmail.com.
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I Sleep Code sometime.
--->
+
