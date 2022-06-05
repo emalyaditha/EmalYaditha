@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my BSc in Software Engineering.
 - 🌱 I’m currently learning Advanced Programming.
 - 👯 I’m looking to collaborate on "Null".
-- 🤔 I’m looking for help with Laravel.
+- 🤔 I’m looking for help with Java.
 - 💬 Ask me about PHP.
 - 📫 How to reach me: emalyaditha@gmail.com.
 - 😄 Pronouns: He/His.
