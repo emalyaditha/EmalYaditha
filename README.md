@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Emal Yaditha</h1>
-<h3 align="center">Software Engineer | Product Support Engineer | Tech Explorer</h3>
+<h3 align="center">Software Engineer · Product Support Engineer · Tech Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=emalyaditha&label=Profile%20views&color=0e75b6&style=flat" alt="emalyaditha" />
@@ -7,49 +7,52 @@
 
 ---
 
-🚀 **About Me**  
-- 💼 Currently working as a **Product Support Engineer**  
-- 🔧 Passionate about **problem-solving** and building practical software  
-- 📚 Currently diving deeper into **C# and .NET**  
-- 🤖 Exploring **AI & Machine Learning Projects**  
-- ✉️ Reach me at: **emalyaditha@live.com**  
-- ⚡ Fun fact: _"Sleep ⏤ Code ⏤ Repeat"_  
+### 🚀 About me
+- 💼 Product Support Engineer at **Retail Information Technologies**
+- 💡 Passionate about solving real-world problems with code
+- 📚 Currently diving into **C#**, **.NET**, and **software architecture**
+- 🤖 Exploring the world of **AI & machine learning**
+- 📬 Reach me at: **emalyaditha@live.com**
+- ⚡ Fun fact: _Sleep ⏤ Code ⏤ Repeat_
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/emalyaditha" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://x.com/emalyaditha" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Toolbox
+### 🧰 Tech toolbox
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,csharp,cpp,php,js,html,css,nodejs,mongodb,mysql,sqlite,postgresql,mssql,dotnet,flutter,androidstudio,linux,git,github,vscode,postman,figma,photoshop,illustrator" />
+  <img src="https://skillicons.dev/icons?i=java,python,csharp,cpp,php,js,html,css" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,postgresql,sqlite,mssql" /><br>
+  <img src="https://skillicons.dev/icons?i=dotnet,flutter,androidstudio,linux,vscode,git,github" /><br>
+  <img src="https://skillicons.dev/icons?i=postman,figma,photoshop,illustrator" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emalyaditha&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emalyaditha&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emalyaditha&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emalyaditha&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 🧠 Currently Exploring
-- 📦 Building smarter **POS & assessment systems** with real-time logic  
-- 🧪 Learning model training and deployment with **TensorFlow, PyTorch**  
-- ⚙️ Automating testing pipelines using **Selenium & Postman**
+### 🧠 Currently exploring
+- 🛒 Building smarter **POS & assessment systems**
+- 🧠 Training AI models using **TensorFlow** and **PyTorch**
+- 🔄 Automating testing with **Selenium** and **Postman**
 
 ---
 
-### 🧩 Quote I Live By  
+### 💬 Quote I live by
 > "_Simplicity is the soul of efficiency._" – Austin Freeman
