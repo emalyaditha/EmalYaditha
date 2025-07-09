@@ -72,7 +72,7 @@
 
 ### 🎉 Support My Work
 <p align="center">
-  <a href="https://www.buymeacoffee.com/emalyaditha" target="_blank">
+  <a href="https://coff.ee/emalyadiths" target="_blank">
     <img src="https://img.shields.io/badge/☕-Buy%20me%20a%20coffee-ffdd00?style=for-the-badge" />
   </a>
 </p>
