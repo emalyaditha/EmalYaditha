@@ -2,10 +2,10 @@
 <h3 align="center">Software Engineer | Product Support Engineer | AI Explorer</h3>
 
 <p align="center">
-<img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=550&lines=Crafting+Software+That+Solves+Real+Problems.;Tech+with+Purpose+%7C+Code+with+Passion+%F0%9F%92%BB;Always+Learning+%7C+Always+Building+%F0%9F%9A%80" 
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Crafting+Software+That+Solves+Real+Problems.;Tech+with+Purpose+%7C+Code+with+Passion;Always+Learning+%7C+Always+Building" 
     alt="Typing SVG"
-    style="height: 90px;"
+    height="50"
 />
 </p>
 
