@@ -188,19 +188,6 @@ const experiments = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 2025 Goals
-
-<div align="center">
-
-| Goal | Progress | Status |
-|------|----------|--------|
-| 🎓 Master .NET Ecosystem | ████████░░ 80% | In Progress |
-| 🤖 Ship 3 AI-powered tools | ████░░░░░░ 40% | Building |
-| 📝 Write 12+ technical articles | ██░░░░░░░░ 20% | Starting |
-| 🌟 Contribute to 5+ OSS projects | ██░░░░░░░░ 20% | Active |
-| 🏆 Earn 3 tech certifications | ███░░░░░░░ 30% | Studying |
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
