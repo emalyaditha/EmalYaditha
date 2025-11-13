@@ -4,7 +4,7 @@
 
 ### Software Engineer • Product Support Engineer • AI Explorer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Crafting+Software+That+Solves+Real+Problems+✨;Tech+with+Purpose+%7C+Code+with+Passion+🚀;Always+Learning+%7C+Always+Building+💡;Simplicity+is+the+Soul+of+Efficiency+⚡" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Crafting+Software+That+Solves+Real+Problems;Tech+with+Purpose+%7C+Code+with+Passion;Always+Learning+%7C+Always+Building;Simplicity+is+the+Soul+of+Efficiency" alt="Typing Animation" />
 
 <br/>
 
