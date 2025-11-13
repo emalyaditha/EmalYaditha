@@ -12,8 +12,8 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=emalyaditha&label=PROFILE+VIEWS&color=f75c7e&style=for-the-badge&labelColor=1a1b27)](https://github.com/emalyaditha)
-[![Years Badge](https://badges.pufler.dev/years/emalyaditha?style=for-the-badge&color=f75c7e&labelColor=1a1b27)](https://github.com/emalyaditha)
-[![Repos Badge](https://badges.pufler.dev/repos/emalyaditha?style=for-the-badge&color=f75c7e&labelColor=1a1b27)](https://github.com/emalyaditha?tab=repositories)
+[![GitHub Followers](https://img.shields.io/github/followers/emalyaditha?style=for-the-badge&logo=github&label=Followers&color=f75c7e&labelColor=1a1b27)](https://github.com/emalyaditha?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/emalyaditha?style=for-the-badge&logo=github&label=Stars&color=f75c7e&labelColor=1a1b27)](https://github.com/emalyaditha?tab=repositories)
 
 </div>
 
@@ -187,7 +187,6 @@ const experiments = {
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
