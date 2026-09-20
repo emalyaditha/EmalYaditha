@@ -9,7 +9,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=emalyaditha&label=Profile%20Views&color=000000&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/emalyaditha?label=Followers&style=for-the-badge&color=000000&logo=github)
 ![GitHub Stars](https://img.shields.io/github/stars/emalyaditha?affiliations=OWNER&style=for-the-badge&color=000000&logo=github)
-![Repos](https://img.shields.io/github/search/emalyaditha/repositories?label=Repos&style=for-the-badge&color=000000&logo=github)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Femalyaditha&query=%24.public_repos&label=Repos&style=for-the-badge&color=000000&logo=github)
 
 <br>
 
