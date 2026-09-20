@@ -68,7 +68,6 @@ I bridge the gap between support engineering and hands-on development — invest
 | **[EM-Budget](https://github.com/emalyaditha/EM-Budget)** | Secure personal finance & ledger manager with passwordless 2FA and cloud sync | React · TypeScript |
 | **[Cosmetics.EM](https://github.com/emalyaditha/Cosmetics.EM)** | E-commerce platform with ML-based product recommendations | Python |
 | **[Roster-Manager](https://github.com/emalyaditha/Roster-Manager)** | Roster management tool for RetailIT support teams | HTML · JavaScript |
-| **[EM-Finance-Manager](https://github.com/emalyaditha/EM-Finance-Manager)** | Finance management application | TypeScript |
 | **[EVIG](https://github.com/emalyaditha/EVIG)** | Clean web application with dynamic functionality | PHP |
 | **[BlackLotus](https://github.com/emalyaditha/BlackLotus)** | .NET ecosystem exploration project | C# |
 
