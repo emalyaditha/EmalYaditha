@@ -6,7 +6,6 @@
 
 <br>
 
-<!-- Profile Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=emalyaditha&label=Profile%20Views&color=000000&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/emalyaditha?label=Followers&style=for-the-badge&color=000000&logo=github)
 ![GitHub Stars](https://img.shields.io/github/stars/emalyaditha?affiliations=OWNER&style=for-the-badge&color=000000&logo=github)
@@ -90,7 +89,6 @@ I bridge the gap between support engineering and hands-on development — invest
 
 <br>
 
-<!-- GitHub Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=emalyaditha&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
 </div>
