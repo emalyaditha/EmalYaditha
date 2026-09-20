@@ -75,22 +75,14 @@ I bridge the gap between support engineering and hands-on development — invest
 
 ### GitHub Analytics
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=emalyaditha&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&cache_seconds=86400" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emalyaditha&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&cache_seconds=86400" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emalyaditha&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emalyaditha&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc" width="40%" />
+</p>
 
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=emalyaditha&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=cccccc" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emalyaditha&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=emalyaditha&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa" />
+</p>
 
 ---
 
